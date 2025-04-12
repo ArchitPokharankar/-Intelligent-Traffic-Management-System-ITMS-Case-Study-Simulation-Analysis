@@ -53,6 +53,8 @@ Graphs from the study show how increasing the percentage of instrumented vehicle
 - 📄 PowerPoint & PDF for documentation
 
 ---
+## 📸 Preview
+
 
 ## 📂 Project Structure
 
