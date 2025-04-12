@@ -54,7 +54,7 @@ Graphs from the study show how increasing the percentage of instrumented vehicle
 
 ---
 ## 📸 Preview
-
+![A* Pathfinding](https://raw.githubusercontent.com/ArchitPokharankar/Intelligent-Traffic-Management-System-ITMS-Case-Study-Simulation-Analysis/main/Astar.png)
 
 ## 📂 Project Structure
 
